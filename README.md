@@ -19,7 +19,7 @@ Type the followings:
 
 How to execute the shell
 ------------------------
-0. make
+0. Run the Makefile
 
 1. To run without plugins, simply run : esh
 
