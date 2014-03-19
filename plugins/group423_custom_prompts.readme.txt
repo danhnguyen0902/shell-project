@@ -1,0 +1,7 @@
+The custom_prompts plugin allows you to set custom plugins for esh.  The plugin
+implements the builtin command "prompt" to set the prompt.  Running "prompt"
+with no arguments displays usage information.  Providing a prompt ID sets the
+prompt corresponding to that ID.  See the usage for the list of available
+prompts.
+
+Requires that esh call process_builtin and make_prompt correctly.

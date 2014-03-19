@@ -1,0 +1,21 @@
+= Plugins Tests
+1 plugins/group422_chdir_test.py
+1 plugins/group422_converter_test.py
+1 plugins/group422_binHex_test.py
+1 plugins/group422_reverseString_test.py
+1 plugins/group422_summation_test.py
+1 plugins/group415_harrypotter_test.py
+1 plugins/group415_war_test.py
+1 plugins/group415_zodiac_test.py
+1 plugins/455_duel_test.py
+1 plugins/455_morse_test.py
+1 plugins/455_random_test.py
+1 plugins/group423_custom_prompts.test.py
+1 plugins/group407_starwars_test.py
+1 plugins/group416_dom_test.py
+1 plugins/group416_intToBinary_test.py
+1 plugins/group416_startedFromTheBottom_test.py
+1 plugins/group416_timer_test.py
+1 plugins/group416_iHeartSystems_test.py
+1 plugins/group416_ohHello_test.py
+1 plugins/group416_stringToBinary_test.py
