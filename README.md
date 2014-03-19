@@ -4,11 +4,13 @@ Extensible Shell
 Student Information
 -------------------
 Austin Moore, aemoore
+
 Danh Nguyen, danh0902
 
 How to execute the shell
 ------------------------
 1.to run without plugins, simply run : esh
+
 2.if you would like to run with plugins, run: esh -p plugins
 
 
@@ -87,6 +89,7 @@ List of Plugins Implemented
 ---------------------------
 
 PLUGINS:
+
 GROUP 422, OUR TEAM:
 
 summation
