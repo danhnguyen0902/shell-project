@@ -7,6 +7,16 @@ Austin Moore, aemoore
 
 Danh Nguyen, danh0902
 
+How to install lex and yacc on ubuntu
+-------------------------------------
+Open terminal (CTRL+ALT+T)
+
+Type following
+- sudo apt-get update
+- sudo apt-get install bison
+- sudo apt-get install flex
+- sudo apt-get install byacc
+
 How to execute the shell
 ------------------------
 0. make
