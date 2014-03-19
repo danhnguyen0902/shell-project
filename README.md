@@ -9,9 +9,9 @@ Danh Nguyen, danh0902
 
 How to install lex and yacc on ubuntu
 -------------------------------------
-Open terminal (CTRL+ALT+T)
+Open the terminal (CTRL+ALT+T)
 
-Type following
+Type the followings:
 - sudo apt-get update
 - sudo apt-get install bison
 - sudo apt-get install flex
