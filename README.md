@@ -7,7 +7,7 @@ Austin Moore, aemoore
 
 Danh Nguyen, danh0902
 
-How to install lex and yacc on ubuntu
+How to install lex and yacc on Ubuntu
 -------------------------------------
 Open the terminal (CTRL+ALT+T)
 
