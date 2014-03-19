@@ -9,22 +9,24 @@ Danh Nguyen, danh0902
 
 How to execute the shell
 ------------------------
-1.to run without plugins, simply run : esh
+0. make
 
-2.if you would like to run with plugins, run: esh -p plugins
+1. To run without plugins, simply run : esh
+
+2. If you would like to run with plugins, run: esh -p plugins
 
 
 
 Important Notes
 ---------------
 To test the plugins:
-~cs3214/bin/stdriver.py -p plugins plugins.tst
+./stdriver.py -p plugins plugins.tst
 
 To run the basic tests:
-~cs3214/bin/stdriver.py -b
+./stdriver.py -b
 
 To run the advanced tests:
-~cs3214/bin/stdriver.py advanced.tst
+./stdriver.py advanced.tst
 
 
 Description of Base Functionality
