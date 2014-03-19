@@ -1,4 +1,4 @@
-shell-project
+Extensible Shell
 =============
 
 Student Information
